@@ -1,2 +1,7 @@
 /test
 test*
+nbproject/
+build/
+CopyLibs/
+nblibraries.properties
+
